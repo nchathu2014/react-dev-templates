@@ -1,7 +1,7 @@
 # React Code Templates
 ![N|Solid](https://cldup.com/CRNHIgIDJ5.png)![N|Solid](https://cldup.com/rykG2gbkRk.png)
 
-From Developer to Developer :D
+**From Developer to Developer :D**
 
 This repo contains three kinds of code temnplates which can use to boostup application development.Here I only explain how it get configure with the Web Storm IDE Whcih is my fav ;).
 
@@ -14,15 +14,19 @@ This repo contains three kinds of code temnplates which can use to boostup appli
 ### Steps
 
 **Step 1** : Open the Web Storm and select **File -> settings** 
+
 ![N|Solid](https://cldup.com/X6CE0n7vAk.png)
 
 **Step 2** : Select **Editer -> File and Code Templates** from the popup dialog
+
 ![N|Solid](https://cldup.com/q4FtzkgbgO.png)
 
 **Step 3** : Click the **(+) indication** to create new code template
 ![N|Solid](https://cldup.com/64hSgQVqH2.png)
 
-**Step 4** : Copy the code content in one of file and paste it.**Change the file extension to js** and Apply and OK
+**Step 4** : Copy the code content in one of file and paste it.**Change the file
+extension to js** and Apply and OK
+
 ![N|Solid](https://cldup.com/k--WdljCMS.png)
 
 ## Now we are almost DONE :DDD
